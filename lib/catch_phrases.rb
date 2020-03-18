@@ -17,8 +17,6 @@ def link
   phrase
 end
 
-def all_phrase
-  mario, toadstool, link
-end
-
-all_phrase
+mario
+toadstool
+link
